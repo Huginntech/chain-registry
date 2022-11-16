@@ -168,6 +168,10 @@
       {
         "address": "https://passage-rpc.panthea.eu",
         "provider": "Panthea EU"
+      },
+      {
+        "address": "https://rpc-passage.huginn.tech",
+        "provider": "Huginn"
       }
     ],
     "rest": [
@@ -210,6 +214,10 @@
       {
         "address": "https://passage-api.panthea.eu",
         "provider": "Panthea EU"
+      },
+      {
+        "address": "https://api.passage.huginn.tech",
+        "provider": "Huginn"
       }
     ],
     "grpc": [
