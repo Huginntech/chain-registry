@@ -73,6 +73,10 @@
       {
         "address": "https://rpc-umee-ia.cosmosia.notional.ventures/",
         "provider": "Notional"
+      },
+      {
+        "address": "https://rpc-umee.huginn.tech",
+        "provider": "Huginn"
       }
     ],
     "rest": [
@@ -87,6 +91,10 @@
       {
         "address": "https://umee-api.polkachu.com",
         "provider": "Polkachu"
+      },
+      {
+        "address": "https://api.umee.huginn.tech",
+        "provider": "Huginn"
       }
     ],
     "grpc": [
